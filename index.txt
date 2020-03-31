@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>==--== || Cursos de Devpos da Alura - RJ || ==--== </title>
+    <title>zzzzzzzzzzzzzzz|| Cursos de Devpos da Alura - RJ ||zzzzzzzzzzzz </title>
     </head>
 <body>
     <ul>
